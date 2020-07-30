@@ -1,5 +1,5 @@
 # Notes from Classes at Harvard
-Notes I've taken for classes at Harvard College
+Notes I've taken for classes at Harvard College during lecture (not including Section, Homework, and Exam materials).
 
 ## Economics
 ### Economics 1052: Game Theory (Spring 2020)
